@@ -1,0 +1,21 @@
+School Type,Region,Starting Median Salary
+Engineering,California,73650
+Engineering,Midwestern,55900
+Engineering,Northeastern,61100
+Engineering,Southern,53500
+Engineering,Western,54550
+Liberal Arts,California,48600
+Liberal Arts,Midwestern,43400
+Liberal Arts,Northeastern,47250
+Liberal Arts,Southern,47350
+Liberal Arts,Western,40500
+Party,California,50500
+Party,Midwestern,45500
+Party,Northeastern,44500
+Party,Southern,43800
+Party,Western,47400
+State,California,47600
+State,Midwestern,42400
+State,Northeastern,44500
+State,Southern,43100
+State,Western,44900
